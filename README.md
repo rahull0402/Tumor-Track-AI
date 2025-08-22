@@ -7,7 +7,6 @@
 
 This project focuses on building an AI-powered system for brain tumor detection using medical imaging scans (such as MRI).
 The system not only detects the presence of a tumor but also provides information about its location, size, type, and stage.
-
 The aim is to assist radiologists and healthcare professionals in faster, more accurate diagnosis while reducing human error.
 
 ## 🚀 Features
