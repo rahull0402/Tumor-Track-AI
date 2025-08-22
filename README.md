@@ -82,9 +82,6 @@ MRI Input	Segmented Tumor	Classification
 ## 📌 Future Improvements
 
 - Improve tumor stage prediction using 3D MRI scans.
-
 - Deploy as a web app / Flask / Django API.
-
 - Integrate with hospital PACS systems.
-
 - Use transformer-based architectures (ViT, Swin-Transformer) for better accuracy.
