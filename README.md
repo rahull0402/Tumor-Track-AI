@@ -13,15 +13,10 @@ The aim is to assist radiologists and healthcare professionals in faster, more a
 ## 🚀 Features
 
 - 🩻 Tumor Detection – Classifies whether a tumor is present or not.
-
 - 🎯 Tumor Localization – Identifies the region of the tumor in the brain scan.
-
 - 📏 Size Estimation – Estimates tumor size in pixels/area.
-
 - 🧬 Type Classification – Differentiates tumor types (e.g., Glioma, Meningioma, Pituitary).
-
 - 📊 Stage Prediction – Determines tumor stage based on size and spread.
-
 - 🖥️ Visualization – Outputs segmented regions on MRI scans.
 
 ## 📊 Dataset
